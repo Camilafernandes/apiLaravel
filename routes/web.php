@@ -10,6 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+<<<<<<< HEAD
 Route::group(array('prefix' => 'apiLaravel'), function()
 {
 
@@ -22,4 +23,9 @@ Route::group(array('prefix' => 'apiLaravel'), function()
 
 Route::get('/', function () {
     return redirect('apiLaravel');
+=======
+
+Route::get('/', function () {
+    return view('welcome');
+>>>>>>> fd6900e3634ad8c2f660954099b89459d41cc9a3
 });

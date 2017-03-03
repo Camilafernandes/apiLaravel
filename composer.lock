@@ -734,6 +734,7 @@
         },
         {
             "name": "paragonie/random_compat",
+<<<<<<< HEAD
             "version": "v2.0.9",
             "source": {
                 "type": "git",
@@ -744,6 +745,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/paragonie/random_compat/zipball/6968531206671f94377b01dc7888d5d1b858a01b",
                 "reference": "6968531206671f94377b01dc7888d5d1b858a01b",
+=======
+            "version": "v2.0.8",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/paragonie/random_compat.git",
+                "reference": "eeb4c23c7b84c1dc87db3c92856bd57ff1844ca4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/eeb4c23c7b84c1dc87db3c92856bd57ff1844ca4",
+                "reference": "eeb4c23c7b84c1dc87db3c92856bd57ff1844ca4",
+>>>>>>> fd6900e3634ad8c2f660954099b89459d41cc9a3
                 "shasum": ""
             },
             "require": {
@@ -778,7 +791,11 @@
                 "pseudorandom",
                 "random"
             ],
+<<<<<<< HEAD
             "time": "2017-03-03 20:43:42"
+=======
+            "time": "2017-03-03 14:11:40"
+>>>>>>> fd6900e3634ad8c2f660954099b89459d41cc9a3
         },
         {
             "name": "psr/log",
