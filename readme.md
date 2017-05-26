@@ -35,6 +35,9 @@ Rodar as Seeds
 php artisan db:seed
 
 ```
+## Slides 
+
+https://pt.slideshare.net/CamilaFernandes32/api-restfull-com-laravel
 
 ## License
 
